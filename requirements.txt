@@ -1,0 +1,3 @@
+wasmbind==0.4
+wasmer==0.4.1
+wasmer-compiler-cranelift==1.0.0
